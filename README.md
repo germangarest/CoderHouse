@@ -1,23 +1,23 @@
-# Análisis de Delitos en la Ciudad Autónoma de Buenos Aires
+# Crime Analysis in the Autonomous City of Buenos Aires
 
-Este repositorio contiene el proyecto final desarrollado como parte del curso de Data Analytics de Coderhouse. El proyecto se centró en el análisis de datos relacionados con delitos en la Ciudad Autónoma de Buenos Aires y fue seleccionado entre los 10 mejores de la cursada.
+This repository contains the final project developed as part of the Data Analytics course at Coderhouse. The project focused on the analysis of crime data in the Autonomous City of Buenos Aires and was selected among the top 10 projects of the course.
 
-## Objetivo del Proyecto
+## Project Objective
 
-El objetivo principal de este proyecto fue utilizar técnicas de análisis de datos para comprender mejor la dinámica de los delitos en la Ciudad Autónoma de Buenos Aires. Se exploraron diversas fuentes de datos relacionadas con los delitos, como informes policiales y datos de denuncias, para identificar patrones, tendencias y áreas críticas.
+The main objective of this project was to use data analysis techniques to better understand the dynamics of crime in the Autonomous City of Buenos Aires. Various sources of crime data, such as police reports and complaint data, were explored to identify patterns, trends, and critical areas.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **Bases de Datos Relacionales**: Se utilizaron conceptos generales de bases de datos y consultas SQL para acceder y manipular los datos de delitos.
-- **Power BI**: Se diseñaron y desarrollaron tableros interactivos utilizando Power BI, aprovechando las capacidades de DAX (Data Analysis Expressions), Power Query y el lenguaje M para análisis avanzado.
-- **Análisis de Datos**: Se aplicaron técnicas de análisis de datos exploratorio y descriptivo para extraer información significativa de los conjuntos de datos.
+- **Relational Databases**: General database concepts and SQL queries were used to access and manipulate crime data.
+- **Power BI**: Interactive dashboards were designed and developed using Power BI, leveraging the capabilities of DAX (Data Analysis Expressions), Power Query, and the M language for advanced analysis.
+- **Data Analysis**: Exploratory and descriptive data analysis techniques were applied to extract meaningful information from the datasets.
 
-## Estructura del Repositorio
+## Repository Structure
 
-- **German Garcia Buenos Aires.pbix**: archivo de Power BI con el tablero de control desarrollado.
-- **Datos Crudos**: Carpeta que contiene los conjuntos de datos utilizados en el análisis.
-- **Datos Procesados**: Carpeta que contiene el modelado de los datos.
+- **German Garcia Buenos Aires.pbix**: Power BI file with the developed dashboard.
+- **Raw Data**: Folder containing the datasets used in the analysis.
+- **Processed Data**: Folder containing the data modeling.
 
-## Resultados y Conclusiones
+## Results and Conclusions
 
-El análisis de datos realizado proporcionó una visión detallada de la distribución de delitos en la Ciudad Autónoma de Buenos Aires, identificando áreas de alto y bajo índice delictivo, así como posibles factores contribuyentes. Los tableros de control desarrollados en Power BI permiten una visualización interactiva de los datos, facilitando la comprensión y la toma de decisiones.
+The data analysis provided a detailed view of the distribution of crime in the Autonomous City of Buenos Aires, identifying areas with high and low crime rates, as well as potential contributing factors. The dashboards developed in Power BI allow for interactive visualization of the data, facilitating understanding and decision-making.
