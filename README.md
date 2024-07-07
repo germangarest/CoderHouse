@@ -14,7 +14,7 @@ The main objective of this project was to use data analysis techniques to better
 
 ## Repository Structure
 
-- **German Garcia Buenos Aires.pbix**: Power BI file with the developed dashboard.
+- **Dashboard**: Folder containing the Power BI file with the developed dashboard.
 - **Raw Data**: Folder containing the datasets used in the analysis.
 - **Processed Data**: Folder containing the data modeling.
 
