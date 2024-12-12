@@ -2,6 +2,8 @@
 
 This repository contains the final project developed as part of the Data Analytics course at Coderhouse. The project focused on the analysis of crime data in the Autonomous City of Buenos Aires and was selected among the top 10 projects of the course.
 
+![Coderhouse](img/coderhouse.jpg) 
+
 ## Project Objective
 
 The main objective of this project was to use data analysis techniques to better understand the dynamics of crime in the Autonomous City of Buenos Aires. Various sources of crime data, such as police reports and complaint data, were explored to identify patterns, trends, and critical areas.
